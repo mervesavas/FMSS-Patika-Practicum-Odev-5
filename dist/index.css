@@ -1,0 +1,54 @@
+
+.buttons {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 50vh;
+  transform: translate(0, -50%);
+  background-color: #F9ECEC;
+}
+
+.btn:hover {
+  cursor: pointer;
+  opacity: 0.8;
+}
+
+.DarkCoffee {
+  background-color: #815B5B;
+  margin: 5px;
+  height: 40px;
+  width: 120px;
+  border-radius: 2px;
+}
+
+.Latte {
+  background-color: #E3C4A8;
+  margin: 5px;
+  height: 40px;
+  width: 120px;
+  border-radius: 2px;
+}
+
+.Mocha {
+  background-color: #9E7676;
+  margin: 5px;
+  height: 40px;
+  width: 120px;
+  border-radius: 2px;
+}
+
+.Cappucino {
+  background-color: #DAB88B;
+  margin: 5px;
+  height: 40px;
+  width: 120px;
+  border-radius: 2px;
+}
+
+.LightCoffee {
+  background-color: #F4DFD0;
+  margin: 5px;
+  height: 40px;
+  width: 120px;
+  border-radius: 2px;
+}

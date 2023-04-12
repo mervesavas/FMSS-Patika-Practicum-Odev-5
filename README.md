@@ -10,7 +10,7 @@
 ## Install
 
 ```bash
-npm install --save my-button
+npm install --save coffeebutton
 ```
 
 ## Usage
@@ -18,8 +18,8 @@ npm install --save my-button
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from 'my-button'
-import 'my-button/dist/index.css'
+import MyComponent from 'coffeebutton'
+import 'coffeebutton/dist/index.css'
 
 class Example extends Component {
   render() {
